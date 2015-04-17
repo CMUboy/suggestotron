@@ -18,3 +18,5 @@
 
 # Ignore RubyMine configuration files.
 /.idea
+
+/.vagrant
